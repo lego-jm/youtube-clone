@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "v0G6dkgXPeYgGEc_ScPiSm_tYk0",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2R8ZowzOmBEfITqxU4ngaS7nHDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z1fhHtx3_8s"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T01:07:39Z",
+        "channelId": "UC7lb15P-Hux7A5gBuhCxtuQ",
+        "title": "[연인 선공개] 길채 vs 량음, 장현 간호 쟁탈전의 결과는??, MBC 231027 방송",
+        "description": "MBC ＜연인＞ 15회ㅣ오늘 밤 9시 50분 방송 14회 재방송ㅣ오늘 밤 8시 40분 방송 많은 시청 바랍니다. 병자호란을 겪으며 엇갈리는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z1fhHtx3_8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z1fhHtx3_8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z1fhHtx3_8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T01:07:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UHjfl7yzqZFR8gjYRj8_JHl8GZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EzEHnQqltvQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T21:30:02Z",
+        "channelId": "UCFHxRHJJOnSujccA9tZgsEQ",
+        "title": "[연인 15화 예고] 몰라도 되지만 알면 더 재밌는 연인 이후 역사",
+        "description": "연인 #남궁민 #이청아 #안은진 #이학주 #이다인 #연인_파트2 #연인_파트2_14화 #연인_파트2_15화 #병자호란 #mbc드라마 #mbc_ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EzEHnQqltvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EzEHnQqltvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzEHnQqltvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "드라마퀸 (Drama Queen)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T21:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tnIXczJ_pqu2fKQFG9IT_knVTPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-7APhh7kAD0"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-25T10:00:00Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#연인 | 13-14회 숏주행] 장현X길채 사랑의 힘이란 어디까지인가? 각화의 방해에도 눈물 없이 볼 수 없는 장현과 길채의 지키는 사랑😭💙 MBC231021방송",
+        "description": "[연인] mydearest 매주 금토 밤 9시 50분 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-7APhh7kAD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-7APhh7kAD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-7APhh7kAD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-25T10:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "11PU1La94p-fkwK0TUB-Oxz9aN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T7W_ehXCzgE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T04:21:22Z",
+        "channelId": "UCFHxRHJJOnSujccA9tZgsEQ",
+        "title": "[연인 15화 예고] 1화 비극적인 전투씬의 서막이 시작된다",
+        "description": "연인 #남궁민 #이청아 #안은진 #이학주 #이다인 #연인_파트2 #연인_파트2_14화 #연인_파트2_15화 #병자호란 #mbc드라마 #mbc_ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T7W_ehXCzgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T7W_ehXCzgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T7W_ehXCzgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "드라마퀸 (Drama Queen)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T04:21:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "luq_THQenZmA5zN2-GxxcZYAe6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ygmX9IstOdQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-08T09:15:02Z",
+        "channelId": "UCRB66wwchrHV8o_FNTZkxzg",
+        "title": "《연인 1~10화 몰아보기!!》 와..남궁민 미친연기력으로,, 시청률 1위(12.2%)찍어버린 레전드 사극 드라마 Part 1. 한방에 몰아보기!!",
+        "description": "(화질 문제로 재업합니다.) MBC (금, 토) 오후 09:50 드라마 \"연인\"1~10회를 요약한 영상입니다 -이 영상은 배급사의 저작권 정책 및 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygmX9IstOdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygmX9IstOdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygmX9IstOdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "에이비씨 무비 : ABC MOVIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-08T09:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tCK_EVdjKCE8Ch37L5QGltuIAhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OUMmrsIEa8s"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-20T07:23:13Z",
+        "channelId": "UCa77bZgwQz8llQHobtc5bRw",
+        "title": "연기의 신🔥남궁민의 귀환🔥입소문 제대로 타고 4주 연속 화제성 1위를 기록한 레전드 명품 사극의 탄생 MBC 드라마 연인 파트1 결말까지 몰아보기",
+        "description": "남궁민 #안은진 #연인 #드라마몰아보기 제목: 연인 (총 10부작, 결말포함)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OUMmrsIEa8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OUMmrsIEa8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OUMmrsIEa8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "드몰 : 드라마 몰아보기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-20T07:23:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JE8Bmh-mLrCvzQpDucE_UCdbCk0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PGAhsn5ka6g"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T13:00:18Z",
+        "channelId": "UCq5qDau7f3AdoR6natuN5LA",
+        "title": "하면 안 되는 장난을 연인에게 한 남자",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGAhsn5ka6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGAhsn5ka6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGAhsn5ka6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "웃튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T13:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pFr-fWFQKIDo-VKz6Y4IJXrNYdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xc4A_Cbmy2w"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T14:50:01Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#연인/MyDearest | 11회 요약본] 서로를 그리워하는 장현X길채 뜻밖의 장소에서 재회하다? MBC231013방송",
+        "description": "[연인] mydearest 매주 금토 밤 9시 50분 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xc4A_Cbmy2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xc4A_Cbmy2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xc4A_Cbmy2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T14:50:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1ixY0QVzhMbesEcxbNYiQleDf8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s6fbhqnVPww"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T04:30:17Z",
+        "channelId": "UC7lb15P-Hux7A5gBuhCxtuQ",
+        "title": "[연인 스페셜] 목숨을 건 장현의 길채 구하기, 13~14회 스페셜 메이킹, MBC 231021 방송",
+        "description": "MBC ＜연인＞ 매주 금토 밤 9시 50분 방송 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s6fbhqnVPww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s6fbhqnVPww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s6fbhqnVPww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T04:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XO104C-Gft5aaVS6aIJaBfuMb3E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ODIp5MvARe4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-21T15:21:24Z",
+        "channelId": "UC7lb15P-Hux7A5gBuhCxtuQ",
+        "title": "[연인 15회 예고] ＂보고 싶었어... 그대가 웃는 얼굴＂, MBC 231027 방송",
+        "description": "More clips are available iMBC https://program.imbc.com/mydearest WAVVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ODIp5MvARe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ODIp5MvARe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ODIp5MvARe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-21T15:21:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VZNKytIVCA8zVEprZtXDStOx1OA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G4MhJdN3exI"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-21T10:00:13Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#연인] 숏페셜 : 장현X길채 로맨스💙💛서사 모음.zip💌 알콩달콩 티키타카 능군리 시절부터 심양 보낼 수 없는 애틋함 서사까지 살짝 담았습니다 MBC230805방송",
+        "description": "[연인] mydearest 매주 금토 밤 9시 50분 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4MhJdN3exI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4MhJdN3exI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4MhJdN3exI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-21T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jb0qqiJ_s6VmyQlyIEaCukb_ToQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BKSrNkWm7CI"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T13:01:30Z",
+        "channelId": "UC7lb15P-Hux7A5gBuhCxtuQ",
+        "title": "[연인] ＂낭자의 것 중에 내 것은 없나?＂ 안은진을 회상하는 남궁민, MBC 231013 방송",
+        "description": "More clips are available iMBC https://program.imbc.com/mydearest WAVVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BKSrNkWm7CI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BKSrNkWm7CI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BKSrNkWm7CI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T13:01:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KTJch2h_DC9IgVAhl9GCLuBHISI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LkXxFjRRxgs"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T02:45:02Z",
+        "channelId": "UCKO8RCkj4V-2mq7DLuoOObQ",
+        "title": "15화 선공개🔥제작진이 기사로 직접 밝힌 15화 전반적인 이야기! [명작맛집]",
+        "description": "연인 #드라마연인 #mbc연인 #연인파트2 #하이라이트 #이장현 #남궁민 #명장면 #15화예고 MBC드라마 연인 파트2는 MBC 금 토 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LkXxFjRRxgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LkXxFjRRxgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LkXxFjRRxgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "명작맛집 - 1호점",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T02:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DtbjxKMNUgVNGlDMJQwYVv-TRvM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1RDHwaE1kkc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-14T14:30:00Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#연인/MyDearest | 12회 요약본] ＂그분께 도움을 청하느니 차라리 죽는 게 나아＂ 포로로 심양에 끌려온 길채와 엇갈리는 장현 231014방송",
+        "description": "[연인] mydearest 매주 금토 밤 9시 50분 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1RDHwaE1kkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1RDHwaE1kkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1RDHwaE1kkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-14T14:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uDT77ggEnS1L4lJyC4hfY_TFViY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hArDoNkYmBU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-25T21:30:06Z",
+        "channelId": "UCFHxRHJJOnSujccA9tZgsEQ",
+        "title": "[연인 15화 예고] 길채, 구원무 따라 조선에 간다",
+        "description": "연인 #남궁민 #이청아 #안은진 #이학주 #이다인 #연인_파트2 #연인_파트2_14화 #연인_파트2_15화 #병자호란 #mbc드라마 #mbc_ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hArDoNkYmBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hArDoNkYmBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hArDoNkYmBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "드라마퀸 (Drama Queen)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-25T21:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zTUNruOg2pKdWR2CIfZn0ZZBoSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D-wDSJVb70U"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T09:06:22Z",
+        "channelId": "UCdlpIyeLu3cfD0jD8SgxxRA",
+        "title": "투앤비(2NB) - 가져선 안되는 마음 (연인 OST) My Dearest OST Part 9",
+        "description": "투앤비(2NB) - 가져선 안되는 마음 연인 OST Part.9 | My Dearest OST Part.9 Release 2023.10.27 #연인OST #MyDearestOST.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-wDSJVb70U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-wDSJVb70U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-wDSJVb70U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kDrama Full OST",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T09:06:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1wNgAfmpBp35Lle0x61GIMRpg5o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6u4dMu6UO50"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-29T01:00:06Z",
+        "channelId": "UC51WKJ_eAxP2A3mm9AIRwIw",
+        "title": "🔥≪연인 파트2≫🔥보기 전 무조건 정주행 해야하는 [연인 파트1] 연기의 신 남궁민의 등장으로 시청률 16.8% 찍고 미친 몰입감으로 시간 순삭 당해버리는 신작 드라마 1위!!",
+        "description": "드라마몰아보기 #드라마몰아보기결말포함 #연인 *구독과 좋아요 한번씩 부탁드립니다. 오늘 리뷰한 작품은 \"연인\"입니다 많은 시청 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6u4dMu6UO50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6u4dMu6UO50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6u4dMu6UO50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "영화와 드라마 : Movie & Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-29T01:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EfVPp6FBGD796B0Ctz64zEiy8qU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qvMib4KruMg"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-20T00:00:30Z",
+        "channelId": "UC7lb15P-Hux7A5gBuhCxtuQ",
+        "title": "[연인 선공개] 그립고 그리운 그 얼굴, MBC 231020 방송",
+        "description": "MBC 금토드라마 ＜연인＞ 13회, 오늘 밤 9시 50분 방송 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qvMib4KruMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qvMib4KruMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qvMib4KruMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-20T00:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t-ysFw7R4RaY7lKkJZXkSXd9eCk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lxjsFMWkmtU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T05:17:17Z",
+        "channelId": "UCJ8SfMsaSnuLQ5o-VqJMdFw",
+        "title": "[#연인 15화 선공개 분석] 길채와 량음의 본격적인 기싸움???",
+        "description": "반박시 여러분의 말씀이 맞습니다 ^^ 서로의 의견을 존중하지 않고 비방, 욕설하는 댓글은 조용히 삭제하겠습니다~ 저는 이 공간이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lxjsFMWkmtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lxjsFMWkmtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lxjsFMWkmtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "드라마카롱(DraMacaron)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T05:17:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_81hSuPlwZe2TlGTUmxxvToj00M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c7h4xqv387k"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T10:00:38Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#연인] 숏페셜 : 드디어 마주한 장현X길채! 근데 굴러온 돌(?) 각화가 박힌 돌(?) 길채를 빼내려한다?!🫢 길채X장현X각화의 관계는 과연-!? MBC231021방송",
+        "description": "[연인] mydearest 매주 금토 밤 9시 50분 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c7h4xqv387k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c7h4xqv387k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c7h4xqv387k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T10:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ueNXJynO0ZzOA8Cyo17q6srI4RQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3-aGU4rLvV0"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-21T15:55:00Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#연인/MyDearest | 14회 요약본] ＂내가 이겼어 이젠 됐어＂  속환되는 길채를 두고 각화와 장현의 내기 사냥, 울부짖으며 길채를 부르는 장현 MBC231021방송",
+        "description": "[연인] mydearest 매주 금토 밤 9시 50분 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3-aGU4rLvV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3-aGU4rLvV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3-aGU4rLvV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-21T15:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lD7KZ-1Bl8171bnGv1J7f9EtC0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WCRskJP7Zmk"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-25T05:45:44Z",
+        "channelId": "UCMihiNU6QuASCWMOdsLr4Iw",
+        "title": "[연인] 15회 예고 / 맙소사, 이장면 눈치채셨나요? 길채에게 다 속았다! (+ 장현 길채 혼인 가능해진 이유) #연인15화예고",
+        "description": "드라마 연인 - 병자호란을 겪으며 엇갈리는 연인, 이장현 유길채의 슬픈 사랑과 청나라와 전쟁으로 고통받는 백성들의 아픔을 다룬 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WCRskJP7Zmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WCRskJP7Zmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WCRskJP7Zmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "드라마텔러 아담TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-25T05:45:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3KcZufrEbUb099dhFltmQJ1FDZI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZAY3Lh3UhIQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-18T10:00:27Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#연인 | 11-12회 숏주행] : 어느 날 심양에 길채가 끌려왔다? 왕야가 점 찍은 포로 길채 &amp; 소현세자와 함께하는 장현의 계속되는 엇갈림😭 MBC 231014방송",
+        "description": "[연인] mydearest 매주 금토 밤 9시 50분 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZAY3Lh3UhIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZAY3Lh3UhIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZAY3Lh3UhIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-18T10:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ej-SLVzWU41-eLJnX-GZBkZEqyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oErO8xqpPG8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-04T23:30:10Z",
+        "channelId": "UC7lb15P-Hux7A5gBuhCxtuQ",
+        "title": "[연인 파트2 티저] 남궁민X안은진, 눈물의 재회 &#39;더 깊어진 사랑&#39;, MBC 231013 방송",
+        "description": "연인＞ 파트2 티저 공개 ▷더 애틋해진 남궁민✖안은진 안은진 ＂날 위해 아무것도 하지 마십시오＂ 남궁민 ＂싫어. 내 마음대로, 내 뜻 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oErO8xqpPG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oErO8xqpPG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oErO8xqpPG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-04T23:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-3n0tqDBqSzS25Cs8jWNKrZZlRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m1xLcsr-lhM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T11:02:02Z",
+        "channelId": "UCFHxRHJJOnSujccA9tZgsEQ",
+        "title": "[연인 15화 예고] 길채와 장현의 공통점, 눈치 채셨나요?",
+        "description": "연인 #남궁민 #이청아 #안은진 #이학주 #이다인 #연인_파트2 #연인_파트2_14화 #연인_파트2_15화 #병자호란 #mbc드라마 #mbc_ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m1xLcsr-lhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m1xLcsr-lhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m1xLcsr-lhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "드라마퀸 (Drama Queen)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T11:02:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "i2JfK5eKNc7GNpZ608gYf32klQM",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 38120,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HfDGHp3IFslk48FmA0M8Ppi-8hM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gs5ztGSIC7o"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-16T04:01:00Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "백종원의 라면 맛있게 끓이는 법 #장사천재백사장",
+        "description": "백종원의 한식 불모지 본업 등판! [#장사천재백사장] 4/2 일요일 저녁 7시 40분 첫방송!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gs5ztGSIC7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gs5ztGSIC7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gs5ztGSIC7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-16T04:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NcZlmkDBxZYYsBWenb9ZzphTcRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "biAaEiYqelA"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-01T09:15:01Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "근데... 본인 24살에 뭐하셨어요?",
+        "description": "Shorts #스트릿우먼파이터 #Diggle #디글 Let's giggle, :Diggle! 방송국놈들이 덕질하는 채널 '디글' 구독하기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/biAaEiYqelA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/biAaEiYqelA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/biAaEiYqelA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-01T09:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Om5m1syOw8WxEQynROhkQ3ouzFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LRcCtygQ2-c"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-05T08:55:00Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "유재석 극딜하는 차태현",
+        "description": "Shorts #식스센스 #Diggle #디글 Let's giggle, :Diggle! 방송국놈들이 덕질하는 채널 '디글' 구독하기 ☞ https://www.youtube.com/c/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LRcCtygQ2-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LRcCtygQ2-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LRcCtygQ2-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-05T08:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XrfMDsTmKcIgVpO7Pr4mff6H2qA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xCBvdSTOWjg"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-23T05:00:20Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "명성황후 죽음을 눈 앞에서 본 김고은의 설움",
+        "description": "영웅 #디글 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xCBvdSTOWjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xCBvdSTOWjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xCBvdSTOWjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-23T05:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KRlfexuC21u5Swm8udX4_az_RAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "67nKHPJnoHM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-23T13:11:00Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "진심 0% 담긴 려운의 고백 #반짝이는워터멜론",
+        "description": "티빙에서 1995년으로 타임리프! 판타지 청춘 드라마 tvN 〈반짝이는 워터멜론〉 매주 [월,화] 저녁 8시 50분.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/67nKHPJnoHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/67nKHPJnoHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/67nKHPJnoHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-23T13:11:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y6gt_jl5qqyhN-tYBQqk0XZr_W8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oopsf6RvcY0"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-21T11:11:01Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "재벌들의 어나더 레벨 예단",
+        "description": "Shorts #마인 #Diggle #디글 Let's giggle, :Diggle! 방송국놈들이 덕질하는 채널 '디글' 구독하기 ☞ https://www.youtube.com/c/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oopsf6RvcY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oopsf6RvcY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oopsf6RvcY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-21T11:11:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0NOCogjOojiLtgJl12gAHRwPq7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J9yOHZJarn0"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-10T08:50:01Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "남들의 조언에 대한 유재석 일침",
+        "description": "Shorts #유퀴즈온더블럭 #유재석 Let's giggle, :Diggle! 방송국놈들이 덕질하는 채널 '디글' 구독하기 ☞ https://www.youtube.com/c/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J9yOHZJarn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J9yOHZJarn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J9yOHZJarn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-10T08:50:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4L5vDGctyClPgZi8WOo8C7VCU_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oR__IzIh7Vw"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-10T11:30:23Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "요즘 국제학교 초딩 영어실력 클래스ㄷㄷ",
+        "description": "Shorts #하이클래스 #Diggle #디글 오늘의 피로는 디글로 푼다! [#디카스] Let's giggle, :Diggle! 방송국놈들이 덕질하는 채널 '디글' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oR__IzIh7Vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oR__IzIh7Vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oR__IzIh7Vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-10T11:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hj_hidtyHuC3-sZaTm4xDCWlzU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j2wN2n1ezyk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-13T09:00:23Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#동네스타K3] &quot;미X놈이야?&quot; FOX 형제 이동욱 X 김범🦊 모셨습니다ㅋㅋㅋ (ft. 구미호뎐) | EP.04",
+        "description": "이동욱 #김범 #동네스타K3 조나단이 동네스타들과 펼치는 만담과 K-POP 한 자락   조나단과 함께하는 〈동네스타K3〉는 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j2wN2n1ezyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j2wN2n1ezyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j2wN2n1ezyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-13T09:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fJ0zABv05NmNZ2Vt7jQeQUpwZRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rt3FChv1VrY"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-05T03:00:12Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "맹장 터진 소진 연기 본 의사들 찐 반응 | #먼슬리디글#닥터프렌즈",
+        "description": "매달 새로운 크리에이터가 디글에 온다! 오직 디글에서만 만나볼 수 있는 크리에이터들의 새로운 모습! 인기 크리에이터와 디글의 만남 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rt3FChv1VrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rt3FChv1VrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rt3FChv1VrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-05T03:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "amVdE2dRHtHnyC0K1YfcbssHGxU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GzGiUWimEqc"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-15T09:00:09Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#동네스타K2] 오자마자 키로 후드려맞은 스트레이&#39;키&#39;즈 리노, 창빈, 필릭스 ㅋㅋㅋ (ft.트와이스) | EP.7",
+        "description": "동네스타K2 #조나단 #스트레이키즈 조나단이 동네스타들과 펼치는 만담과 K-POP 한 자락   조나단과 함께하는 〈동네스타K2〉는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GzGiUWimEqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GzGiUWimEqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzGiUWimEqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-15T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PdfuzG9i5JnHB-R391uEBfOm8lM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bTB4oRIMOeA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-17T09:00:24Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#동네스타K3] 에이티즈 홍중 X 산 X 민기 X 여상 주작 폭로만 하다감;; K-고추 맵긴 맵네;; | EP. 9",
+        "description": "에이티즈 #ATEEZ #동네스타K3 조나단이 동네스타들과 펼치는 만담과 K-POP 한 자락   조나단과 함께하는 〈동네스타K3〉는 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTB4oRIMOeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTB4oRIMOeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTB4oRIMOeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-17T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7xXgbTPUd2_QeIpOAnygVf43Wdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cd9Wvq6nsnE"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-09T13:30:11Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#유퀴즈온더블럭] 사상 최초 중학생 때 국대 발탁된 배드민턴 안세영 선수🏸 우승 상금만 1억 원😲?! #안세영",
+        "description": "tvN 대유잼 영상은 나중에 보면 늦는다! 지금 꼭! 볼 동영상 #지금꼭볼동영상 #유퀴즈온더블럭 #안세영선수 #배드민턴국가대표 we're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cd9Wvq6nsnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cd9Wvq6nsnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cd9Wvq6nsnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-09T13:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pN6C6XZ22tatWcYLHFcts2nNA_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "180t4YGudKo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T08:30:00Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#뿅뿅지구오락실2] 또 하나의 미미어 “또루뀨막똫” 탄생에 제작진 둥절ㅋㅋㅋ 명대사 퀴즈에 미미어의 축복이 끝이 없네👏 | #지금꼭볼동영상",
+        "description": "tvN 대유잼 영상은 나중에 보면 늦는다! 지금 꼭! 볼 동영상 #지금꼭볼동영상 #지꼭동 #뿅뿅지구오락실2 〈뿅뿅 지구오락실2〉 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/180t4YGudKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/180t4YGudKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/180t4YGudKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T08:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1W1WSzi1y33SIpuzzRYhYE6FM0k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oYnFTuHcj-0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-26T13:30:21Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#유퀴즈온더블럭] 🐶강아지 vs 고양이🐱 누가 더 귀여운가! 수의사 설채현&amp;나응식 자기님의 끝나지 않는 논쟁🤣 #설채현 #나응식",
+        "description": "tvN 대유잼 영상은 나중에 보면 늦는다! 지금 꼭! 볼 동영상 #지금꼭볼동영상 #지꼭동 #유퀴즈온더블럭 #설채현 #나응식 we're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oYnFTuHcj-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oYnFTuHcj-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oYnFTuHcj-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-26T13:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V3gqppJZy1mcuXV8LQVf9sHkmr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l_oNYjrv1jc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-18T09:30:15Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#뿅뿅지구오락실] ㅋㅋ 영지 언니가 샐러드를 샀을 리가 없지🎮 말없이 사 온 재료로 메뉴 맞추는 {네. 곧.내 브런치} 게임 | #디글",
+        "description": "뿅뿅지구오락실 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l_oNYjrv1jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l_oNYjrv1jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l_oNYjrv1jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-18T09:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uS3uznpFGK6u9-x5Kw6MqmwwRUs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oKkV4SkPg3Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T03:00:21Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#뿅뿅지구오락실] 🙏지락실 시즌2 소취🙏그 유명한 전설의 &#39;영석이 형&#39;의 시작ㅋㅋ 지락실 레전드 TOP6 모아보기📂 | #디글",
+        "description": "뿅뿅지구오락실 1,4,5,6,7,12화 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKkV4SkPg3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKkV4SkPg3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKkV4SkPg3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T03:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sZ_lPeBCmmh5B-pjRj8Ek13Jmak",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8xhkZBiUIjE"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-24T15:05:00Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#인생술집] 모두를 뒤집어지게 만든 파격 발언! 대유잼 직진으로 푸는 신동엽 X 이혜영의 소개팅 썰",
+        "description": "tvN 레전드 예능 끌어~ 올려↗↗ #끌올 #인생술집 #이혜영 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8xhkZBiUIjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8xhkZBiUIjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8xhkZBiUIjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-24T15:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BBaXM2YLz1jL0mMmDT1aZf9GENU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rsNvMz0Hd80"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-15T12:50:01Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#벌거벗은한국사] 평범해 보이는 가계도에 숨겨진 충격적인 비밀😱 왕건의 자녀가 근친혼을 했다? 사촌오빠와 결혼한 천추태후까지ㄷㄷ",
+        "description": "유튜브에서 지금 핫한 동영상은? #인기급상승 #벌거벗은한국사 #고려 #근친혼 〈벌거벗은 한국사〉 매주 수 오후 8시 20분 tvN ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rsNvMz0Hd80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rsNvMz0Hd80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rsNvMz0Hd80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-15T12:50:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B0SLi34y1qCwSDnj5c-wjZQ2iAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D18GhySW_bA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-25T11:30:04Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#23웃음페스타] 조선을 피 바람을 불게 했던 &#39;문정왕후&#39;..🔥 왜 문정왕후에게 악독한 사람이라는 수식어가 붙게 되었나? #벌거벗은한국사 #디글",
+        "description": "CJ 온스타일에서 진행되는 봄   패션 대축제   총150여개 패션 브랜드가 참여하는 봄 패션 대축제 기간 내 신상의류 구매하고 구매 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D18GhySW_bA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D18GhySW_bA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D18GhySW_bA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-25T11:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MJhARbsZoOsSYA2V8DqXZxc_oNg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e0jCexPiHa0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-09T09:00:22Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#유퀴즈온더블럭] 레전설의 등장! ※군대 썰의 끝판왕※ 인천상륙작전에 참여한 6.25 전쟁 참전용사가 말하는 맥아더 장군 썰!",
+        "description": "tvN 레전드 끌어, 올려↗ #끌올 #유퀴즈온더블럭 #해병대1기 〈유퀴즈온더블럭〉 매주 수 오후 8시 40분 tvN에서! TVING으로 다시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e0jCexPiHa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e0jCexPiHa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e0jCexPiHa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-09T09:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJ7jVOmsOoGa1IGhBtioss7D5xk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "--b7j2lJjYQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-08T08:24:00Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "은퇴 자금 만드는 법",
+        "description": "Shorts #유퀴즈온더블럭 #Diggle #디글 Let's giggle, :Diggle! 방송국놈들이 덕질하는 채널 '디글' 구독하기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/--b7j2lJjYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/--b7j2lJjYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/--b7j2lJjYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-08T08:24:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MK8Qgw-Ajhazw9AzpaV0U8O2wQA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l9lwydVZ5lA"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T15:00:36Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#벌거벗은세계사] (1시간) 아내 두고 사창가까지 갔던 간디의 충격적인 어린 시절ㄷㄷ 내가 알던 간디가 아냐;;",
+        "description": "길게 보는 tvN 핵꿀잼 영상! 저장해두고 나중에 보고 또 보자! #나중에또볼동영상 #나또동 #벌거벗은세계사 #간디 0:00:00 오프닝 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l9lwydVZ5lA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l9lwydVZ5lA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l9lwydVZ5lA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T15:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w-wbv-bRZtFNGn__y2V4ttHoZIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nyerXPE4syo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T14:00:19Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#벌거벗은세계사] 히잡을 쓰지 않아서 사형 선고🤯 누구를 위한 히잡인가! 도를 넘은 이란의 히잡 강제법 | #디제이픽",
+        "description": "취향저격! 당신이 원하던 그 플레이리스트 [#디제이픽  ] #벌거벗은세계사 *회차 정보: 벌거벗은 세계사 78회 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nyerXPE4syo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nyerXPE4syo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nyerXPE4syo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T14:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4b2NJYLYRJpa8ERPef-Kzko3yxs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7277WU5HXmM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-08T07:00:02Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#벌거벗은세계사] (1시간) &quot;이거 나라가 망하는 거 아닌가...&quot; 한때 미국보다 잘 나갔던 일본의 붕괴 과정💥 | #디제이픽",
+        "description": "취향저격! 당신이 원하던 그 플레이리스트 [#디제이픽  ] #벌거벗은세계사 ▷티빙에서 스트리밍 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7277WU5HXmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7277WU5HXmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7277WU5HXmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-08T07:00:02Z"
+      }
+    }
+  ]
+}
