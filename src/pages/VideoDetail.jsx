@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { useLocation } from "react-router-dom";
 import timeAgo from "../util/timeago";
 import ChannelInfo from "../components/ChannelInfo";

@@ -23,7 +23,7 @@ export default function VideoCard({ video }) {
         src={snippet.thumbnails.high.url}
         alt="youtube_thumbnail"
       />
-      <div className="flex flex-col">
+      <div className={videoId ? "ml-3" : ""}>
         <h3 className="text-sm mb-2 h-10 font-semibold line-clamp-2">
           {snippet.title}
         </h3>
