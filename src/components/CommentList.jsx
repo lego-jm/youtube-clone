@@ -20,6 +20,7 @@ export default function CommentList({ videoId }) {
           <a
             href={comment.snippet.topLevelComment.snippet.authorChannelUrl}
             target="_blank"
+            rel="noreferrer"
           >
             <img
               className="rounded-full w-10 h-10 cursor-pointer"
