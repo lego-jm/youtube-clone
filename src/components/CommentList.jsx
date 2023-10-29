@@ -22,21 +22,23 @@ export default function CommentList({ videoId }) {
             target="_blank"
             rel="noreferrer"
           >
-            <img
-              className="rounded-full w-10 h-10 cursor-pointer"
-              src={
-                comment.snippet.topLevelComment.snippet.authorProfileImageUrl
-              }
-              alt=""
-            />
+            <div className="w-10 h-10">
+              <img
+                className="rounded-full w-full cursor-pointer"
+                src={
+                  comment.snippet.topLevelComment.snippet.authorProfileImageUrl
+                }
+                alt=""
+              />
+            </div>
           </a>
-          <div className="">
+          <div>
             <h3 className="text-sm font-bold">
               {comment.snippet.topLevelComment.snippet.authorDisplayName}
             </h3>
-            <pre className="text-sm">
+            <p className="text-sm">
               {comment.snippet.topLevelComment.snippet.textOriginal}
-            </pre>
+            </p>
           </div>
         </li>
       ))}

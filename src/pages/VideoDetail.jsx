@@ -14,7 +14,7 @@ export default function VideoDetail() {
 
   return (
     <section>
-      <div className="w-10 flex flex-col md:flex-row gap-x-5 mt-7">
+      <div className="flex flex-col md:flex-row gap-x-5 mt-7">
         <div className="flex flex-col gap-5 basis-9/12">
           <iframe
             className="rounded-2xl"
@@ -25,6 +25,7 @@ export default function VideoDetail() {
             src={`https://www.youtube.com/embed/${video.id}`}
             frameBorder="0"
             title="video"
+            allowfullscreen
           />
           <h3 className="text-xl font-bold">{title}</h3>
           <ChannelInfo channelTitle={channelTitle} channelId={channelId} />
