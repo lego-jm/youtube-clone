@@ -24,7 +24,7 @@ export default function VideoCard({ video }) {
         alt="youtube_thumbnail"
       />
       <div className={videoId ? "ml-3" : ""}>
-        <h3 className="text-sm mb-2 h-10 font-semibold line-clamp-2">
+        <h3 className="text-sm my-2 h-10 font-semibold line-clamp-2">
           {snippet.title}
         </h3>
         <h3 className="text-xs text-gray-500">{snippet.channelTitle}</h3>

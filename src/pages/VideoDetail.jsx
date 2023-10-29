@@ -3,6 +3,7 @@ import { useLocation } from "react-router-dom";
 import timeAgo from "../util/timeago";
 import ChannelInfo from "../components/ChannelInfo";
 import ChannelVideos from "../components/ChannelVideos";
+import CommentList from "../components/CommentList";
 
 export default function VideoDetail() {
   const {
@@ -31,6 +32,7 @@ export default function VideoDetail() {
             <p className="text-sm opacity-70">{timeAgo(publishedAt)}</p>
             {description}
           </pre>
+          <CommentList videoId={video.id} />
         </div>
         <ChannelVideos channelId={channelId} />
       </div>

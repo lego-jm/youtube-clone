@@ -32,6 +32,17 @@ export default class Youtube {
       );
   }
 
+  async commentList(videoId) {
+    return this.apiClient
+      .commentList({
+        params: {
+          part: "snippet",
+          videoId,
+        },
+      })
+      .then((res) => res.data.items);
+  }
+
   async #mostPopular() {
     return this.apiClient
       .popular({

@@ -22,4 +22,7 @@ export default class YoutubeClient {
   async channelList(param) {
     return this.apiClient.get("search", param);
   }
+  async commentList(param) {
+    return this.apiClient.get("commentThreads", param);
+  }
 }

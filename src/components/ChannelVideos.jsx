@@ -14,7 +14,7 @@ export default function ChannelVideos({ channelId }) {
   );
 
   return (
-    <ul className="basis-3/12">
+    <ul className="w-full basis-3/12">
       {videos &&
         videos.map((video) => <VideoCard key={video.id} video={video} />)}
     </ul>
