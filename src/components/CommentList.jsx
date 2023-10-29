@@ -13,7 +13,7 @@ export default function CommentList({ videoId }) {
   );
 
   return (
-    <ul className="flex flex-col gap-y-5">
+    <ul className="flex flex-col gap-y-5 mb-10">
       <h3 className="font-bold text-xl">댓글 {comments?.length}개</h3>
       {comments?.map((comment) => (
         <li key={comment.id} className="flex items-center gap-x-2">
