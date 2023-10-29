@@ -20,7 +20,7 @@ export default function VideoDetail() {
             className="rounded-2xl"
             id="player"
             type="text/html"
-            width="100%"
+            width="50%"
             height="640"
             src={`https://www.youtube.com/embed/${video.id}`}
             frameBorder="0"
