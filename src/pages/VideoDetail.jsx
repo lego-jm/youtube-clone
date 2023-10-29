@@ -14,13 +14,13 @@ export default function VideoDetail() {
 
   return (
     <section>
-      <div className="flex flex-col md:flex-row gap-x-5 mt-7">
+      <div className="w-10 flex flex-col md:flex-row gap-x-5 mt-7">
         <div className="flex flex-col gap-5 basis-9/12">
           <iframe
             className="rounded-2xl"
             id="player"
             type="text/html"
-            width="50%"
+            width="100%"
             height="640"
             src={`https://www.youtube.com/embed/${video.id}`}
             frameBorder="0"
